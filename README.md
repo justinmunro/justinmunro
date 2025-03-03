@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://justin-readme-stats.vercel.app/api?username=justinmunro&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://justin-readme-stats.vercel.app/api?username=justinmunro&show_icons=true&theme=dracula&show=prs_merged,prs_merged_percentage)
 
 ![Top Langs](https://justin-readme-stats.vercel.app/api/top-langs/?username=justinmunro&langs_count=10)
 
